@@ -17,7 +17,7 @@ public class TuriNorteApp {
         if(instance == null){
             instance = new TuriNorteApp();
 
-
+            
 
         }
 
